@@ -1,21 +1,16 @@
 import logging.config
 import warnings
 import os
-from settings import envs
 
 from loguru import logger
 from flask import Flask, Blueprint
 from flask_cors import CORS
-from project.api.health import ns as health_operation
-from project.api.amazon import ns as amazon_operation
-from project.restx import api
+from amazon.api.settings import envs
+from amazon.api.project.api.health import ns as health_operation
+from amazon.api.project.api.amazon import ns as amazon_operation
+from amazon.api.project.restx import api
 
 app = Flask(__name__)
-logging_conf_path = os.path.normpath(
-    os.path.join(os.path.dirname(__file__), "../logging.conf")
-)
-logging.config.fileConfig(logging_conf_path)
-log = logging.getLogger(__name__)
 logger.add(envs.PATH_LOG, rotation="1 week")
 
 
@@ -44,16 +39,10 @@ def initialize_app(flask_app):
     flask_app.register_blueprint(blueprint)
 
 
-def main():
+def main(app):
     warnings.filterwarnings("ignore")
     initialize_app(app)
-    logger.debug(
-        "[+] --- starting at: {}:{}{}".format(
-            envs.FLASK_HOST, envs.FLASK_PORT, envs.FLASK_URL_FIX
-        )
-    )
-    app.run(host=envs.FLASK_HOST, port=envs.FLASK_PORT, debug=envs.FLASK_DEBUG)
+    return app
 
 
-if __name__ == "__main__":
-    main()
+app = main(app)

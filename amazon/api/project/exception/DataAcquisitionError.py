@@ -1,4 +1,4 @@
-from project.constants import Message
+from amazon.api.project.constants import Message
 
 
 class DataAquisitionException(Exception):

@@ -1,5 +1,5 @@
 from collections import defaultdict
-from project.utils import Table
+from amazon.api.project.utils import Table
 
 
 class Graph(Table):

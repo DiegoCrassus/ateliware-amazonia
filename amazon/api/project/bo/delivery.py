@@ -1,4 +1,4 @@
-from project.utils import Graph, objLogger
+from amazon.api.project.utils import Graph, objLogger
 
 
 def amazon_delivery(req_data):

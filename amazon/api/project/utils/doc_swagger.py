@@ -1,5 +1,5 @@
 from flask_restx import fields
-from project.restx import api
+from amazon.api.project.restx import api
 
 # expected input values of api
 INPUT_DATA = api.model(

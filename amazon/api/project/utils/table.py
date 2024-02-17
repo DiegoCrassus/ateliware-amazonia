@@ -1,6 +1,6 @@
 import requests
-from settings import Config
-from project.exception import DataAquisitionException
+from amazon.api.settings import Config
+from amazon.api.project.exception import DataAquisitionException
 
 
 class Table(Config):

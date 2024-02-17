@@ -1,9 +1,9 @@
 import logging
 from flask_restx import Api
-from settings import envs
-from project.constants import CodeHttp, Message
-from project.utils import objLogger, objResponse
-from project.exception.NotTreatementError import NotTreatmentException
+from amazon.api.settings import envs
+from amazon.api.project.constants import CodeHttp, Message
+from amazon.api.project.utils import objLogger, objResponse
+from amazon.api.project.exception.NotTreatementError import NotTreatmentException
 
 
 log = logging.getLogger(__name__)

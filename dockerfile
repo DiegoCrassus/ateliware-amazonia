@@ -1,6 +1,6 @@
 FROM ubuntu:20.04
-RUN mkdir /app
-WORKDIR /app
+RUN mkdir /code
+WORKDIR /code
 
 RUN apt-get update
 
@@ -14,13 +14,13 @@ RUN apt-get install --fix-missing -y \
     apt-get clean
 
 
-COPY requirements.txt /app
+COPY requirements.txt /code
 
 RUN pip3 install --no-cache-dir -r requirements.txt
 RUN pip3 install --upgrade flask-cors
 
-COPY . /app
+COPY . /code
 
-RUN chmod -R +x /app/
+RUN chmod -R +x /code/
 
-ENTRYPOINT ["python3", "api/app.py"]
+ENTRYPOINT ["gunicorn", "-c", "/code/amazon/api/config.py", "amazon:app", "--preload"]

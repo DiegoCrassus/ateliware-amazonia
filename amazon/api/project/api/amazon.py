@@ -1,14 +1,14 @@
 import logging
 import traceback
-from settings import envs
+from amazon.api.settings import envs
 from flask import request
 from flask_restx import Resource
-from project.restx import api
-from project.constants import CodeHttp, Message
-from project.utils import doc_swagger
-from project.restx import objLogger, objResponse
-from project.exception import DataAquisitionException
-from project.bo.delivery import amazon_delivery
+from amazon.api.project.restx import api
+from amazon.api.project.constants import CodeHttp, Message
+from amazon.api.project.utils import doc_swagger
+from amazon.api.project.restx import objLogger, objResponse
+from amazon.api.project.exception import DataAquisitionException
+from amazon.api.project.bo.delivery import amazon_delivery
 
 log = logging.getLogger(__name__)
 ns = api.namespace(envs.DELIVERY_ENDPOINT, description="Post operação.")
