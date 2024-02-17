@@ -1,0 +1,80 @@
+2024-02-17 02:17:44.291 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:17:44.293 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:17:45.117 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:17:45.117 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:18:22.135 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:18:22.139 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:18:22.800 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:18:22.801 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:18:31.091 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:18:31.093 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:18:31.877 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:18:31.877 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:19:23.158 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:19:23.161 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:19:23.851 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:19:23.851 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:20:18.068 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:20:18.070 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:20:18.963 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:20:18.964 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:20:57.392 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:20:57.394 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:20:58.189 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:20:58.190 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:21:17.369 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:21:17.371 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:21:18.159 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:21:18.159 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:21:37.292 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:21:37.295 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:21:38.088 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:21:38.088 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:21:46.756 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:21:46.758 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:21:47.576 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:21:47.577 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:22:13.996 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:22:13.998 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:22:14.784 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:22:14.785 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:22:35.965 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:22:35.967 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:22:36.729 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:22:36.729 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:22:43.653 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:22:43.655 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:22:44.435 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:22:44.436 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:22:49.246 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:22:49.249 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:22:50.043 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:22:50.043 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:23:10.652 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:23:10.655 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:23:11.453 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:23:11.454 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:23:36.553 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:23:36.555 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:23:37.379 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:23:37.379 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:23:53.506 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:23:53.508 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:23:54.292 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:23:54.292 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:24:22.685 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:24:22.687 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:24:23.473 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:24:23.473 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:24:35.788 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:24:35.790 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:24:36.631 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:24:36.631 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:24:55.246 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:24:55.248 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:24:55.952 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:24:55.952 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
+2024-02-17 02:25:07.055 | DEBUG    | amazon.api.project.utils.logger:debug:13 - [+] - Request recebida.
+2024-02-17 02:25:07.057 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Start: A1	Checkpoint: C5	Finish: G5
+2024-02-17 02:25:07.681 | INFO     | amazon.api.project.utils.logger:info:21 - [+] - Distance: 180.76	Path: A1, B1, C1, C2, C3, C4, C5, D5, E5, F5, G5
+2024-02-17 02:25:07.681 | SUCCESS  | amazon.api.project.utils.logger:success:25 - [-] - Success: Done.
