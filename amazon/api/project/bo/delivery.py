@@ -16,7 +16,4 @@ def amazon_delivery(req_data):
     total_distance = distance_to_checkpoint + distance_to_finish
     objLogger.info(f"Distance: {total_distance}\tPath: {', '.join(total_path)}")
 
-    return {
-        "steps": total_path,
-        "distance": total_distance
-        }
+    return {"steps": total_path, "distance": total_distance}
